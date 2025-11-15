@@ -2,8 +2,8 @@ import React from "react";
 import Tiles from "./components/Tiles";
 
 function App() {
-  const twitterURL = "https://x.com/horneliusdoteth";
-  const twitterImage = "/images/sealuminati_1.png";
+  const twitterURL = "https://x.com/hornelius";
+  const twitterImage = "/images/hornelius_no_bg.png";
   const projects = [
     {
       title: "Hatched Detector",
@@ -15,7 +15,7 @@ function App() {
       title: "sealuminati",
       description: "A Sappy Seal derivative building on Monad.",
       link: "https://x.com/sealuminati",
-      imageUrl: "/images/sealuminati_1.png",
+      imageUrl: "/images/hornelius_no_bg.png",
     },
     {
       title: "Soon",
